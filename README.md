@@ -30,14 +30,6 @@ Rewards are periodically claimed from the gauge and moved to a synthetix inspire
 - Deposit CVX on the platform. (can be withdrawn at anytime)
 - Receive a portion of the platform fees in cvxCRV
 
-Convex Finance Launch Airdrop
-----
-Convex Finance will airdrop a portion of CVX tokens to all current veCRV holders. Additionally, all addresses that vote to whitelist Convex in a subsequent Curve.fi governance vote will receive additional CVX tokens.
-Incentivized Liquidity Mining
-In order to bootstrap liquidity for both CVX and cxvCRV tokens, liquidity providers for the following Sushiswap pools will be able to deposit their LP tokens on Convex, and receive CVX tokens as rewards.
-cvxCRV/CRV
-CVX/ETH
-
 
 Motivations and Goals
 ----
